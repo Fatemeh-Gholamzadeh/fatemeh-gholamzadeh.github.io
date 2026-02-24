@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  color: #d1d5dc;
+  color: #9da0a5;
   background-color: #fff8ed;
 }
 header {
@@ -40,7 +40,7 @@ a {
   color: #ff8704;
   text-decoration: none;
 }
-/* comment */
+
 a:hover {
   text-decoration: underline;
 }
